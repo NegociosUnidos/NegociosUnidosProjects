@@ -1,2 +1,2 @@
 # NegociosUnidosProjects
-Generación de sitios web con para monetización pasiva mediante afiliados y publicidad.
+Generación de sitios web para monetización pasiva mediante afiliados y publicidad.
